@@ -1,0 +1,23 @@
+{
+  "name": "vue-button-simple",
+  "version": "1.0.0",
+  "description": "A simple Vue component about button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stormzhangbx/vue-button-simple.git"
+  },
+  "keywords": [
+    "Vue",
+    "button"
+  ],
+  "author": "stormzhangbx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stormzhangbx/vue-button-simple/issues"
+  },
+  "homepage": "https://github.com/stormzhangbx/vue-button-simple#readme"
+}
